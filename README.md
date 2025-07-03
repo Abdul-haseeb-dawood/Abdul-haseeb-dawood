@@ -1,5 +1,5 @@
-# Hello 👋, I'm 𝑨𝒃𝒅𝒖𝒍 𝑯𝒂𝒔𝒆𝒆𝒃
-### 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
+                                                                    # Hello 👋, I'm Abdul Haseeb
+                                                                      ### 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
 
 I'm Abdul Haseeb — a passionate Full Stack Developer with a love for building fast, responsive, and clean web applications. I specialize in TypeScript, Next.js, Tailwind CSS, and Python, and I enjoy turning creative ideas into real-world digital experiences. Currently exploring the power of AI and agent-based systems, I’m constantly learning, experimenting, and striving to push boundaries in tech. Whether it's a sleek frontend or powerful backend, I aim to deliver code that's both elegant and efficien
 
@@ -44,4 +44,5 @@ Building sleek, modern websites and diving into AI-powered development
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-haseeb-dawood&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-haseeb-dawood&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
