@@ -30,11 +30,11 @@ Building sleek, modern websites and diving into AI-powered development
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdul-haseeb-dawood&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdul-haseeb-dawood&show_icons=true&count_private=true&theme=merko" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-haseeb-dawood&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-haseeb-dawood&layout=compact&theme=merko" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-haseeb-dawood&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-haseeb-dawood&theme=merko" alt="GitHub Streak" />
 
 <img src="https://profile-counter.glitch.me/Abdul-haseeb-dawood/count.svg?" alt="visitors count" />
 
